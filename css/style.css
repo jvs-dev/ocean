@@ -8,7 +8,7 @@
 }
 :root
 {
-    --black: #333;
+    --black: black;
     ---white: #fff;
 }
 .dark
